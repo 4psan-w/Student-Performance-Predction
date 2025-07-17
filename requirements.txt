@@ -1,7 +1,10 @@
---only-binary=:all:
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.4.2
 matplotlib==3.8.4
 seaborn==0.13.2
 streamlit==1.35.0
+pygments==2.19.2
+markdown-it-py==3.0.0
+mdurl==0.1.2
+rich==14.0.0
